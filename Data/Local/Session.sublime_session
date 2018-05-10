@@ -1,0 +1,2102 @@
+{
+	"folder_history":
+	[
+		"/D/wamp64/www/fan4ou",
+		"/C/Program Files/Sublime Text 3",
+		"/E/wamp64/www/phpQuery",
+		"/E/wamp64/www/phpspider",
+		"/E/python3/douban",
+		"/E/python3/fan4ou",
+		"/E/wamp64/www/newMzone",
+		"/E/wamp64/www/wx-gzzt",
+		"/E/wamp64/www/Eth-Fi_Trading_Src/pc",
+		"/E/wamp64/www/fan4ou",
+		"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/extend",
+		"/C/Program Files/Sublime Text 3/Packages",
+		"/E/wamp64/www/newChktMallSystem"
+	],
+	"last_version": 3114,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 736.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"geo",
+						"geohashValue"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"tabl",
+						"$tableFields〔variable〕"
+					],
+					[
+						"ywme",
+						"$ywmemo〔variable〕"
+					],
+					[
+						"selec",
+						"$selectRes〔variable〕"
+					],
+					[
+						"del",
+						"$deleteRes〔variable〕"
+					],
+					[
+						"cms",
+						"cmsStockistAlarm"
+					],
+					[
+						"par",
+						"parseFloat〔function〕"
+					],
+					[
+						"list",
+						"list_i〔variable〕"
+					],
+					[
+						"fo",
+						"for	for (…) {…}"
+					],
+					[
+						"html",
+						"html_content〔variable〕"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"json_en",
+						"json_encode_zh〔function〕"
+					],
+					[
+						"prd",
+						"prdprice〔argument〕"
+					],
+					[
+						"cm",
+						"cmsStockistAlarm"
+					],
+					[
+						"reg",
+						"reg.accval"
+					],
+					[
+						"valu",
+						"$value〔variable〕"
+					],
+					[
+						"json",
+						"json_encode_zh〔function〕"
+					],
+					[
+						"vyd",
+						"$vydtrData〔variable〕"
+					],
+					[
+						"inc",
+						"$incnum〔variable〕"
+					],
+					[
+						"getl",
+						"getLastInsID〔function〕"
+					],
+					[
+						"extra",
+						"$extra〔variable〕"
+					],
+					[
+						"srid",
+						"srid"
+					],
+					[
+						"al",
+						"$alarmList〔variable〕"
+					],
+					[
+						"updat",
+						"$updateData〔variable〕"
+					],
+					[
+						"send",
+						"$sendMsgContent〔variable〕"
+					],
+					[
+						"temp",
+						"template_id〔variable〕"
+					],
+					[
+						"conte",
+						"$content〔variable〕"
+					],
+					[
+						"value",
+						"$values〔variable〕"
+					],
+					[
+						"warin",
+						"warning_reg"
+					],
+					[
+						"n",
+						"n_alarmList"
+					],
+					[
+						"valuse",
+						"$values〔variable〕"
+					],
+					[
+						"pri",
+						"private〔keyword〕"
+					],
+					[
+						"war",
+						"$warningList〔variable〕"
+					],
+					[
+						"sim",
+						"$simcallno〔variable〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"pr",
+						"prdkind"
+					],
+					[
+						"clien",
+						"client_wxid"
+					],
+					[
+						"form",
+						"form_recharge"
+					],
+					[
+						"cli",
+						"$client_wxid〔variable〕"
+					],
+					[
+						"prin",
+						"print_r〔function〕"
+					],
+					[
+						"por",
+						"$proList〔variable〕"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"showPro",
+						"showProductList"
+					],
+					[
+						"upda",
+						"updateRes"
+					],
+					[
+						"sell",
+						"$sellstatus〔variable〕"
+					],
+					[
+						"button",
+						"buttonText〔variable〕"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"num",
+						"numdata"
+					],
+					[
+						"post",
+						"$postResult〔variable〕"
+					],
+					[
+						"strup",
+						"strtoupper"
+					],
+					[
+						"new",
+						"newVal〔variable〕"
+					],
+					[
+						"cha",
+						"changeNum"
+					],
+					[
+						"che",
+						"checkOpenidInfo〔class〕"
+					],
+					[
+						"click",
+						"clickActionSheet"
+					],
+					[
+						"clic",
+						"clickActionSheet"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"pro",
+						"$proInfo〔variable〕"
+					],
+					[
+						"oper",
+						"$operDetail〔variable〕"
+					],
+					[
+						"v",
+						"$vydtrInfo〔variable〕"
+					],
+					[
+						"sta",
+						"starttime"
+					],
+					[
+						"Ymd-0",
+						"Ymd-000000"
+					],
+					[
+						"val",
+						"val"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"ocs",
+						"$ocs_return〔variable〕"
+					],
+					[
+						"ini",
+						"init_data〔function〕"
+					],
+					[
+						"fetch",
+						"fetchSql〔function〕"
+					],
+					[
+						"uns",
+						"unset〔keyword〕"
+					],
+					[
+						"session_de",
+						"session_destroy〔function〕"
+					],
+					[
+						"_se",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"_SE",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"si",
+						"$signPackage〔variable〕"
+					],
+					[
+						"resu",
+						"res.resultStr"
+					],
+					[
+						"user",
+						"$userinfo〔variable〕"
+					],
+					[
+						"arr",
+						"array〔keyword〕"
+					],
+					[
+						"csm",
+						"$cmsUserInfo〔variable〕"
+					],
+					[
+						"view",
+						"$viewPath〔variable〕"
+					],
+					[
+						"tra",
+						"trait〔keyword〕"
+					],
+					[
+						"open",
+						"$openid〔variable〕"
+					],
+					[
+						"base",
+						"base64_decode〔function〕"
+					],
+					[
+						"url",
+						"urldecode〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"utf",
+						"utf8_encode〔function〕"
+					],
+					[
+						"confi",
+						"$confirm〔variable〕"
+					],
+					[
+						"tab",
+						"$tables〔variable〕"
+					],
+					[
+						"inser",
+						"$insertData〔variable〕"
+					],
+					[
+						"postData",
+						"$postData〔variable〕"
+					],
+					[
+						"sel",
+						"selected"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 150.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sublim",
+						"SublimeLinter: Reload SublimeLinter and its Plugins"
+					],
+					[
+						"installpack",
+						"Package Control: Install Package"
+					],
+					[
+						"intsall",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 373.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/wamp64/www/ThinkCMF/composer.json",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/D/wamp64/www/wordpress/README.md",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Markdown (Standard).sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/MarkdownLivePreview.css",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/D/wamp64/www/fan4ou/server/application/config/database.php",
+				"/C/Users/Chan/Desktop/shop.sql",
+				"/D/wamp64/www/fan4ou/server/application/config/config_.php",
+				"/D/wamp64/www/fan4ou/server/application/helpers/general_helper.php",
+				"/D/wamp64/www/fan4ou/client/pages/map/map.js",
+				"/C/Users/Chan/Desktop/fan4ou.sql",
+				"/D/wamp64/www/fan4ou/server/application/controllers/Map.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/wamp64/www/fan4ou/server/index.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter (old).sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/PHP Companion.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Operator.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/model/Vydtr.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Agent.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Myqr.html",
+				"/C/Users/Chan/Desktop/Other/Shadowsocks-4.0.9/pac.txt",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Record.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Operdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Operator.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Alarmdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/config.php",
+				"/E/wamp64/www/newChktMallSystem/doc/tab_ChktMallSystem.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Db.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/db/Connection.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Alarmlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Alarm.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Binding.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Recharge.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Operlist.html",
+				"/E/wamp64/www/newChktMallSystem/doc/err_code.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/sftp-config.json",
+				"/E/wamp64/www/newChktMallSystem/doc/newChktMallSystem.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Unbinding.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Transbalance.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Productdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Productlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Regadd.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Reglist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Regmgrdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Vydtrlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Contactus.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Productlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Exception.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/ftPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/model/Alarm.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Client.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/vendor/topthink/think-image/src/image/Exception.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/common.php",
+				"/E/wamp64/www/newChktMallSystem/doc/wx_menu.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Model.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Alarm.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Product.php",
+				"/C/Users/Chan/AppData/Local/Temp/~flashfxp/F6532CC7_edit.tmp/token.php",
+				"/C/Users/Chan/AppData/Local/Temp/~flashfxp/F6532CC7_view.tmp/token.php",
+				"/E/wamp64/www/Eth-Fi_Trading_Src/数据库文件/bi.sql",
+				"/C/Users/Chan/Desktop/public.pub",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Common.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Validate.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Manager.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/runtime/temp/5fbe8b02b8661fb63067f40aa56a58c5.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/runtime/temp/7fe3e8af7d98d3a7b8eea302fd86b460.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/runtime/temp/ea0aa4d61c6578a551485e43ab935c82.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Pretty JSON.sublime-settings",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/db/Query.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/weui.min.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/dropload.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/iscroll.js",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Recharge.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Wxlib.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/css/weui.css",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Binding.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Reg.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Balance.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Fillinfo.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/helper.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Loader.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/hdPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/css/jquery-weui.min.css",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/jquery-weui.min.js",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Url.php",
+				"/E/wamp64/www/newChktMallSystem/doc/配套定时任务.获取微信TOKEN及TICKET/WeiXin.TokenAndTicket.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/database.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/selectProduct.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/test.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/css/weui.min.css",
+				"/C/Users/Chan/Desktop/iscroll-master/iscroll-master/demos/infinite/index.html",
+				"/C/Users/Chan/Desktop/iscroll-master/iscroll-master/demos/infinite/dataset.php",
+				"/C/Users/Chan/Desktop/iscroll-master/iscroll-master/build/iscroll.js",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/traits/controller/Jump.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/model/Userinfo.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/model/relation/BelongsTo.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/model/relation/BelongsToMany.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Session.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Base File.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Installed Packages/DocBlockr.sublime-package",
+				"/C/Program Files/Sublime Text 3/Data/Packages/DocBlockr/Base File.sublime-settings",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/sucPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/msgPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/response/Redirect.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Response.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Error.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/controller/Rest.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/warPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/extend/phpqrcode.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/config.php",
+				"/C/Users/Chan/Desktop/Shadowsocks-4.0.9/pac.txt",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/errPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/exception/HttpResponseException.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"E:\\wamp64\\www\\newChktMallSystem\\src_CHKT_WX_SITE",
+					"",
+					"E:\\wamp64\\www",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'",
+					"wx25109b5a8ff983b2",
+					"preview",
+					"markdown_live_preview_on_open",
+					"article",
+					"Map",
+					"location",
+					"'locat",
+					"location",
+					"shop_street_number",
+					"lng",
+					"shop_lng",
+					"shop_street_number",
+					"street_number",
+					"location",
+					"shop_img",
+					"shop_street",
+					"address",
+					"output",
+					"ak",
+					"uz6OaK0fLfRDZO1wPVoYqZsyEnLBT9fV",
+					"baidu",
+					"number_format",
+					"latitude",
+					"$a",
+					"$b",
+					"$a",
+					"Longitude",
+					"Latitude",
+					"public",
+					"n_longitude",
+					"calculateAdjacent",
+					"geohashPrefix",
+					"echo",
+					"lng",
+					"$lat",
+					"start",
+					"sendTemplateMsg",
+					"contactUs",
+					"view",
+					"form_recharge",
+					"=>	",
+					"pieces",
+					"weui-form-preview__value",
+					"15",
+					"soid",
+					"linpwd",
+					"linpwd_",
+					"alarmvalue",
+					"请输入手机号码或扫描SIM卡条形码",
+					"$vydtr->addData",
+					"2201",
+					"ywvalue",
+					"ywtpye",
+					"2201",
+					"spid",
+					"soid",
+					"simcallno",
+					"where",
+					"getFields",
+					"$this->Vydtr->addData",
+					"showMsgPage",
+					"spid",
+					"$.confirm",
+					"删除告警规则失败",
+					"msg",
+					"description",
+					"fix_simsp",
+					"操作员",
+					"fix_status",
+					"fix_sellstatus",
+					"请输入正整数或者带两位小数的金额",
+					"changeNum",
+					"input",
+					"newVal",
+					"regObjInfo_accval",
+					"查不到",
+					".bind(",
+					"bind('input'",
+					"blur",
+					"simcallno",
+					"[i]",
+					"i",
+					"												",
+					"(i-1)*3+k",
+					"i",
+					"$postResult = $this->postDataToOcsApi('ocscx.get_user_detail', ['simno' => $post['numdata']]);\n				if (empty($postResult) || $postResult['error_code'] != '000') {\n					return $this->rtnData('1501', '请输入有效卡号');	\n				}",
+					"checkCallnoBelongsTo",
+					"prdkind",
+					"prdking",
+					"list_i",
+					"i",
+					"font-size:14",
+					"align-items: center;",
+					"<span>",
+					"HKD&nbsp;100<br>",
+					"$",
+					"weui",
+					"'<",
+					"weui_click",
+					"simno",
+					"pushnum",
+					"storknum_list",
+					"storknum_id",
+					"warning_id",
+					"storknum",
+					"spid",
+					"keyword5",
+					"keyword4",
+					"soid",
+					"spid",
+					"->addData(",
+					"memo",
+					"->addData",
+					"告警指数",
+					"['operwxid']",
+					"variable",
+					"prddesc",
+					"proInfo",
+					"prddesc",
+					"商品详情",
+					"prddesc",
+					"<a class=\"weui-btn weui-btn_primary\" href=\"javascript:\" id=\"showTooltips\">确定</a>",
+					"regmemo_span",
+					"argument",
+					"bind('input",
+					"备注信息",
+					"16"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"告警数额",
+					"身份识别码",
+					"$.showLoading();",
+					"$.hideLoading();",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 130.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"hel",
+						"src_CHKT_WX_SITE\\thinkphp\\helper.php"
+					],
+					[
+						"help",
+						"src_CHKT_WX_SITE\\thinkphp\\helper.php"
+					],
+					[
+						"helper",
+						"src_CHKT_WX_SITE\\thinkphp\\helper.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "err",
+				"selected_items":
+				[
+					[
+						"err",
+						"Error"
+					]
+				],
+				"width": 440.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 213.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1442.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"geo",
+						"geohashValue"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"tabl",
+						"$tableFields〔variable〕"
+					],
+					[
+						"ywme",
+						"$ywmemo〔variable〕"
+					],
+					[
+						"selec",
+						"$selectRes〔variable〕"
+					],
+					[
+						"del",
+						"$deleteRes〔variable〕"
+					],
+					[
+						"cms",
+						"cmsStockistAlarm"
+					],
+					[
+						"par",
+						"parseFloat〔function〕"
+					],
+					[
+						"list",
+						"list_i〔variable〕"
+					],
+					[
+						"fo",
+						"for	for (…) {…}"
+					],
+					[
+						"html",
+						"html_content〔variable〕"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"json_en",
+						"json_encode_zh〔function〕"
+					],
+					[
+						"prd",
+						"prdprice〔argument〕"
+					],
+					[
+						"cm",
+						"cmsStockistAlarm"
+					],
+					[
+						"reg",
+						"reg.accval"
+					],
+					[
+						"valu",
+						"$value〔variable〕"
+					],
+					[
+						"json",
+						"json_encode_zh〔function〕"
+					],
+					[
+						"vyd",
+						"$vydtrData〔variable〕"
+					],
+					[
+						"inc",
+						"$incnum〔variable〕"
+					],
+					[
+						"getl",
+						"getLastInsID〔function〕"
+					],
+					[
+						"extra",
+						"$extra〔variable〕"
+					],
+					[
+						"srid",
+						"srid"
+					],
+					[
+						"al",
+						"$alarmList〔variable〕"
+					],
+					[
+						"updat",
+						"$updateData〔variable〕"
+					],
+					[
+						"send",
+						"$sendMsgContent〔variable〕"
+					],
+					[
+						"temp",
+						"template_id〔variable〕"
+					],
+					[
+						"conte",
+						"$content〔variable〕"
+					],
+					[
+						"value",
+						"$values〔variable〕"
+					],
+					[
+						"warin",
+						"warning_reg"
+					],
+					[
+						"n",
+						"n_alarmList"
+					],
+					[
+						"valuse",
+						"$values〔variable〕"
+					],
+					[
+						"pri",
+						"private〔keyword〕"
+					],
+					[
+						"war",
+						"$warningList〔variable〕"
+					],
+					[
+						"sim",
+						"$simcallno〔variable〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"pr",
+						"prdkind"
+					],
+					[
+						"clien",
+						"client_wxid"
+					],
+					[
+						"form",
+						"form_recharge"
+					],
+					[
+						"cli",
+						"$client_wxid〔variable〕"
+					],
+					[
+						"prin",
+						"print_r〔function〕"
+					],
+					[
+						"por",
+						"$proList〔variable〕"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"showPro",
+						"showProductList"
+					],
+					[
+						"upda",
+						"updateRes"
+					],
+					[
+						"sell",
+						"$sellstatus〔variable〕"
+					],
+					[
+						"button",
+						"buttonText〔variable〕"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"num",
+						"numdata"
+					],
+					[
+						"post",
+						"$postResult〔variable〕"
+					],
+					[
+						"strup",
+						"strtoupper"
+					],
+					[
+						"new",
+						"newVal〔variable〕"
+					],
+					[
+						"cha",
+						"changeNum"
+					],
+					[
+						"che",
+						"checkOpenidInfo〔class〕"
+					],
+					[
+						"click",
+						"clickActionSheet"
+					],
+					[
+						"clic",
+						"clickActionSheet"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"pro",
+						"$proInfo〔variable〕"
+					],
+					[
+						"oper",
+						"$operDetail〔variable〕"
+					],
+					[
+						"v",
+						"$vydtrInfo〔variable〕"
+					],
+					[
+						"sta",
+						"starttime"
+					],
+					[
+						"Ymd-0",
+						"Ymd-000000"
+					],
+					[
+						"val",
+						"val"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"ocs",
+						"$ocs_return〔variable〕"
+					],
+					[
+						"ini",
+						"init_data〔function〕"
+					],
+					[
+						"fetch",
+						"fetchSql〔function〕"
+					],
+					[
+						"uns",
+						"unset〔keyword〕"
+					],
+					[
+						"session_de",
+						"session_destroy〔function〕"
+					],
+					[
+						"_se",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"_SE",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"si",
+						"$signPackage〔variable〕"
+					],
+					[
+						"resu",
+						"res.resultStr"
+					],
+					[
+						"user",
+						"$userinfo〔variable〕"
+					],
+					[
+						"arr",
+						"array〔keyword〕"
+					],
+					[
+						"csm",
+						"$cmsUserInfo〔variable〕"
+					],
+					[
+						"view",
+						"$viewPath〔variable〕"
+					],
+					[
+						"tra",
+						"trait〔keyword〕"
+					],
+					[
+						"open",
+						"$openid〔variable〕"
+					],
+					[
+						"base",
+						"base64_decode〔function〕"
+					],
+					[
+						"url",
+						"urldecode〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"utf",
+						"utf8_encode〔function〕"
+					],
+					[
+						"confi",
+						"$confirm〔variable〕"
+					],
+					[
+						"tab",
+						"$tables〔variable〕"
+					],
+					[
+						"inser",
+						"$insertData〔variable〕"
+					],
+					[
+						"postData",
+						"$postData〔variable〕"
+					],
+					[
+						"sel",
+						"selected"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "GRANT ALL PRIVILEGES ON *.* TO 'root'@'183.6.167.34'IDENTIFIED BY 'root123456' WITH GRANT OPTION;",
+					"settings":
+					{
+						"buffer_size": 97,
+						"line_ending": "Windows",
+						"name": "GRANT ALL PRIVILEGES ON *.* TO 'root'@'183.6.167.3"
+					}
+				},
+				{
+					"file": "/C/Users/Chan/Desktop/qqmap-wx-jssdk1.0/qqmap-wx-jssdk.js",
+					"settings":
+					{
+						"buffer_size": 12248,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 150.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sublim",
+						"SublimeLinter: Reload SublimeLinter and its Plugins"
+					],
+					[
+						"installpack",
+						"Package Control: Install Package"
+					],
+					[
+						"intsall",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"forma",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"format",
+						"Format: Javascript"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 373.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/wamp64/www/fan4ou"
+			],
+			"file_history":
+			[
+				"/D/wamp64/www/fan4ou/public/.htaccess",
+				"/D/wamp64/www/fan4ou/server/application/libraries/Geohash/Geohash.php",
+				"/D/wamp64/www/fan4ou/server/application/controllers/Login.php",
+				"/D/wamp64/www/fan4ou/server/application/controllers/Article.php",
+				"/D/wamp64/www/fan4ou/server/application/controllers/Test.php",
+				"/D/wamp64/www/fan4ou/server/application/helpers/common_helper.php",
+				"/D/wamp64/www/fan4ou/server/application/controllers/Map.php",
+				"/D/wamp64/www/fan4ou/server/config.php",
+				"/D/wamp64/www/fan4ou/server/application/config/autoload.php",
+				"/D/wamp64/www/ThinkCMF/composer.json",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/D/wamp64/www/wordpress/README.md",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Markdown (Standard).sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/MarkdownLivePreview.css",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/D/wamp64/www/fan4ou/server/application/config/database.php",
+				"/C/Users/Chan/Desktop/shop.sql",
+				"/D/wamp64/www/fan4ou/server/application/config/config_.php",
+				"/D/wamp64/www/fan4ou/server/application/helpers/general_helper.php",
+				"/D/wamp64/www/fan4ou/client/pages/map/map.js",
+				"/C/Users/Chan/Desktop/fan4ou.sql",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/wamp64/www/fan4ou/server/index.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter (old).sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/PHP Companion.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Operator.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/model/Vydtr.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Agent.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Myqr.html",
+				"/C/Users/Chan/Desktop/Other/Shadowsocks-4.0.9/pac.txt",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Record.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Operdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Operator.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Alarmdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/config.php",
+				"/E/wamp64/www/newChktMallSystem/doc/tab_ChktMallSystem.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Db.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/db/Connection.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Alarmlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Alarm.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Binding.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Recharge.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Operlist.html",
+				"/E/wamp64/www/newChktMallSystem/doc/err_code.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/sftp-config.json",
+				"/E/wamp64/www/newChktMallSystem/doc/newChktMallSystem.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Unbinding.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Transbalance.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Productdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Productlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Regadd.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Reglist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Regmgrdetail.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/Vydtrlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Client/Contactus.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Productlist.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Exception.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/ftPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/model/Alarm.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Client.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/vendor/topthink/think-image/src/image/Exception.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/common.php",
+				"/E/wamp64/www/newChktMallSystem/doc/wx_menu.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Model.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Alarm.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Product.php",
+				"/C/Users/Chan/AppData/Local/Temp/~flashfxp/F6532CC7_edit.tmp/token.php",
+				"/C/Users/Chan/AppData/Local/Temp/~flashfxp/F6532CC7_view.tmp/token.php",
+				"/E/wamp64/www/Eth-Fi_Trading_Src/数据库文件/bi.sql",
+				"/C/Users/Chan/Desktop/public.pub",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Common.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Validate.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Manager.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/runtime/temp/5fbe8b02b8661fb63067f40aa56a58c5.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/runtime/temp/7fe3e8af7d98d3a7b8eea302fd86b460.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/runtime/temp/ea0aa4d61c6578a551485e43ab935c82.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Pretty JSON.sublime-settings",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/db/Query.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/weui.min.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/dropload.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/iscroll.js",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Recharge.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/controller/Wxlib.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/css/weui.css",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Binding.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Reg.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/validate/Balance.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/Fillinfo.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/helper.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Loader.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/hdPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/css/jquery-weui.min.css",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/js/jquery-weui.min.js",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Url.php",
+				"/E/wamp64/www/newChktMallSystem/doc/配套定时任务.获取微信TOKEN及TICKET/WeiXin.TokenAndTicket.ini",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/database.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Agent/selectProduct.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Operator/test.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/public/static/css/weui.min.css",
+				"/C/Users/Chan/Desktop/iscroll-master/iscroll-master/demos/infinite/index.html",
+				"/C/Users/Chan/Desktop/iscroll-master/iscroll-master/demos/infinite/dataset.php",
+				"/C/Users/Chan/Desktop/iscroll-master/iscroll-master/build/iscroll.js",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/traits/controller/Jump.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/model/Userinfo.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/model/relation/BelongsTo.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/model/relation/BelongsToMany.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Session.php",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Base File.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Installed Packages/DocBlockr.sublime-package",
+				"/C/Program Files/Sublime Text 3/Data/Packages/DocBlockr/Base File.sublime-settings",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/sucPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/application/wechat/view/Common/msgPage.html",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/response/Redirect.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Response.php",
+				"/E/wamp64/www/newChktMallSystem/src_CHKT_WX_SITE/thinkphp/library/think/Error.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"E:\\wamp64\\www\\newChktMallSystem\\src_CHKT_WX_SITE",
+					"",
+					"E:\\wamp64\\www",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'",
+					"wx25109b5a8ff983b2",
+					"preview",
+					"markdown_live_preview_on_open",
+					"article",
+					"Map",
+					"location",
+					"'locat",
+					"location",
+					"shop_street_number",
+					"lng",
+					"shop_lng",
+					"shop_street_number",
+					"street_number",
+					"location",
+					"shop_img",
+					"shop_street",
+					"address",
+					"output",
+					"ak",
+					"uz6OaK0fLfRDZO1wPVoYqZsyEnLBT9fV",
+					"baidu",
+					"number_format",
+					"latitude",
+					"$a",
+					"$b",
+					"$a",
+					"Longitude",
+					"Latitude",
+					"public",
+					"n_longitude",
+					"calculateAdjacent",
+					"geohashPrefix",
+					"echo",
+					"lng",
+					"$lat",
+					"start",
+					"sendTemplateMsg",
+					"contactUs",
+					"view",
+					"form_recharge",
+					"=>	",
+					"pieces",
+					"weui-form-preview__value",
+					"15",
+					"soid",
+					"linpwd",
+					"linpwd_",
+					"alarmvalue",
+					"请输入手机号码或扫描SIM卡条形码",
+					"$vydtr->addData",
+					"2201",
+					"ywvalue",
+					"ywtpye",
+					"2201",
+					"spid",
+					"soid",
+					"simcallno",
+					"where",
+					"getFields",
+					"$this->Vydtr->addData",
+					"showMsgPage",
+					"spid",
+					"$.confirm",
+					"删除告警规则失败",
+					"msg",
+					"description",
+					"fix_simsp",
+					"操作员",
+					"fix_status",
+					"fix_sellstatus",
+					"请输入正整数或者带两位小数的金额",
+					"changeNum",
+					"input",
+					"newVal",
+					"regObjInfo_accval",
+					"查不到",
+					".bind(",
+					"bind('input'",
+					"blur",
+					"simcallno",
+					"[i]",
+					"i",
+					"												",
+					"(i-1)*3+k",
+					"i",
+					"$postResult = $this->postDataToOcsApi('ocscx.get_user_detail', ['simno' => $post['numdata']]);\n				if (empty($postResult) || $postResult['error_code'] != '000') {\n					return $this->rtnData('1501', '请输入有效卡号');	\n				}",
+					"checkCallnoBelongsTo",
+					"prdkind",
+					"prdking",
+					"list_i",
+					"i",
+					"font-size:14",
+					"align-items: center;",
+					"<span>",
+					"HKD&nbsp;100<br>",
+					"$",
+					"weui",
+					"'<",
+					"weui_click",
+					"simno",
+					"pushnum",
+					"storknum_list",
+					"storknum_id",
+					"warning_id",
+					"storknum",
+					"spid",
+					"keyword5",
+					"keyword4",
+					"soid",
+					"spid",
+					"->addData(",
+					"memo",
+					"->addData",
+					"告警指数",
+					"['operwxid']",
+					"variable",
+					"prddesc",
+					"proInfo",
+					"prddesc",
+					"商品详情",
+					"prddesc",
+					"<a class=\"weui-btn weui-btn_primary\" href=\"javascript:\" id=\"showTooltips\">确定</a>",
+					"regmemo_span",
+					"argument",
+					"bind('input",
+					"备注信息",
+					"16"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"告警数额",
+					"身份识别码",
+					"$.showLoading();",
+					"$.hideLoading();",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\wamp64\\www\\fan4ou"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 97,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										97
+									]
+								],
+								"settings":
+								{
+									"auto_name": "GRANT ALL PRIVILEGES ON *.* TO 'root'@'183.6.167.3",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"default_dir": "D:\\wamp64\\www\\fan4ou\\server",
+									"incomplete_sync": null,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Chan/Desktop/qqmap-wx-jssdk1.0/qqmap-wx-jssdk.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12248,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8872,
+										8872
+									]
+								],
+								"settings":
+								{
+									"SL.20.region_keys":
+									[
+									],
+									"SL.22.region_keys":
+									[
+									],
+									"SL.23.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												313,
+												314
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												122,
+												123
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9330,
+												9331
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8589,
+												8590
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8940.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 130.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,925,885,130,2343",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"hel",
+						"src_CHKT_WX_SITE\\thinkphp\\helper.php"
+					],
+					[
+						"help",
+						"src_CHKT_WX_SITE\\thinkphp\\helper.php"
+					],
+					[
+						"helper",
+						"src_CHKT_WX_SITE\\thinkphp\\helper.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "err",
+				"selected_items":
+				[
+					[
+						"err",
+						"Error"
+					]
+				],
+				"width": 440.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 213.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 22,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
